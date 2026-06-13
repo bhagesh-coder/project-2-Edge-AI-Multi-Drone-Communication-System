@@ -1,4 +1,5 @@
-# project-2-Prototype-Model-Using-Federated-Learning-and-Edge-AI
+# project-2 Edge-AI Multi Drone Communication System
+
 
 Edge AI Multi-Drone Communication System
 
